@@ -1,20 +1,31 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>WWII Indoctrination in Okinawa WORKING TITLE</title>
-				<author>Gerald E. Thomas</author>
-				<editor>Tristan Curd, Megan Reed, Arka Maitra, Izchel Quintero</editor>
+				<title type="main">Okinawa WWII:</title>
+                <title type="sub">The reality of a conquered people</title>
+				<author>Megan Reed</author>
+				<editor>Tristan Curd, </editor>
+                <editor>Arka Maitra, </editor>
+                <editor>Izchel Quintero.</editor>
 			</titleStmt>
 			<publicationStmt>
-				<p>Publication Information</p>
+                <authority></authority>
+				<availability><licence target="https://creativecommons.org/licenses/by-nd/4.0/">This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use.</licence></availability>
 			</publicationStmt>
+            <notesStmt><note>Historical context for the Okinawan people during the US Military occupation at the end of WWII.</note></notesStmt>
 			<sourceDesc>
-				<p>Photographs taken from the Gerald E. Thomas collection in the Archives &amp;
-					Special Collections at the University of Nebraska-Lincoln</p>
+                <bibl>Feifer, George. “The Rape of Okinawa.” <hi rend="italic">World Policy Journal,</hi> vol. 17, no. 3, 2000, pp. 33–40.</bibl>
+                <bibl>Ford, Clellan S. “Occupation Experiences on Okinawa.” <hi rend="italic">The Annals of the American Academy of Political and Social Science,</hi>The Annals of the American Academy of Political and Social Science, vol. 267, 1950, pp. 175–82.</bibl>
+                <bibl>Karasik, Daniel D. “Okinawa: A Problem in Administration and Reconstruction.” <hi rend="italic">The Far Eastern Quarterly,</hi>vol. 7, no. 3, 1948, pp. 254–67.</bibl>
+                <bibl>Loo, Tze M. “‘Paradise in a War Zone’: The U.S. Military and Tourism in Okinawa, 1945–1972.” <hi rend="italic">Japan Review,</hi> no. 33, 2019, pp. 173–94.</bibl>                
 			</sourceDesc>
 		</fileDesc>
+<!-- IZCHEL: not sure if this is the right tag for leaving these notes but I think the header is pretty much done for this doc. We'd just have to add the MsDesc or whatever it is that Laura mentioned in clase that's supposed to have the info about the repository where the photos are coming from (the stuff at the top of the inventory) -->
 	</teiHeader>
 	<text>
 		<body>
