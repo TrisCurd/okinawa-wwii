@@ -6,13 +6,27 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title type="main">Okinawa WWII:</title>
+                <title type="sub">The reality of a conquered people</title>
+                <title type="desc">Military</title>
+            <author>Tristan Curd, </author>
+            <author>Megan Reed, </author>
+            <author>Izchel Quintero, </author>
+            <author>Arka Maitra. </author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <authority></authority>
+				<availability><licence target="https://creativecommons.org/licenses/by-nd/4.0/">This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use.</licence></availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Potographs taken from the Gerald E. Thomas collection. Originally labeled as belonging to the U.S. Signal Corps.</p>
+            <p><msDesc>
+                <msIdentifier>
+                    <repository>UNL Archives &amp; Special Collections</repository>
+                    <collection>Gerrald E. Thomas</collection>
+                    <idno>MS 0116</idno>
+                </msIdentifier>
+            </msDesc></p>        
          </sourceDesc>
       </fileDesc>
   </teiHeader>
