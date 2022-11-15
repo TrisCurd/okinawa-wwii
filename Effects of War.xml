@@ -18,7 +18,8 @@
   </teiHeader>
   <text>
       <body>
-      	<theme>Effects of War</theme>
+         <div>
+      	<head>Effects of War</head>
       	<figure>
       		<graphic url="images/0116-00011.jpg"/>
       		<figDesc>(Approx) 15 May 45. Okinawa. One of the many Japanese dugouts that
@@ -153,6 +154,7 @@
       			Sig Photo Det (Signal Corps Photo)</figDesc>
       		
       	</figure>
+         </div>
       </body>
   </text>
 </TEI>

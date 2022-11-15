@@ -18,7 +18,8 @@
   </teiHeader>
   <text>
       <body>
-      	<Theme> Military</Theme>
+         <div>
+      	<head> Military</head>
       	<figure>
       		<graphic url="images/0116-00043.jpg"/>
       		<figDesc>Okinawa, Ryukyus. A Japanese girl [woman] is held by a member of the 7th
@@ -110,6 +111,7 @@
       			Hawaii. (Signal Corps Photo). Cochran, 3234 Sig Photo Det</figDesc>
       		
       	</figure>
+         </div>
       </body>
   </text>
 </TEI>

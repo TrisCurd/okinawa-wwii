@@ -18,7 +18,8 @@
   </teiHeader>
   <text>
       <body>
-         <Theme> Okinawa and Okinawans</Theme>
+      	<div>
+         <head> Okinawa and Okinawans</head>
 			<figure>
 				<graphic url="images/0116-00053.jpg"/>
 				<figDesc>(Formerly:10A/POA-158-45-958) Okinawa. Aerial view of Kadena Circle.
@@ -346,6 +347,7 @@
 					28, 3117 Sig SV BN</figDesc>
 
 			</figure>
+      	</div>
       </body>
   </text>
 </TEI>
