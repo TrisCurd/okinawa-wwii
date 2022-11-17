@@ -7,32 +7,48 @@
 		<fileDesc>
 			<titleStmt>
 				<title type="main">Okinawa WWII:</title>
-                <title type="sub">The reality of a conquered people</title>
+				<title type="sub">The reality of a conquered people</title>
 				<author>Megan Reed</author>
 				<editor>Tristan Curd, </editor>
-                <editor>Arka Maitra, </editor>
-                <editor>Izchel Quintero.</editor>
+				<editor>Arka Maitra, </editor>
+				<editor>Izchel Quintero.</editor>
 			</titleStmt>
 			<publicationStmt>
-                <authority></authority>
-				<availability><licence target="https://creativecommons.org/licenses/by-nd/4.0/">This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use.</licence></availability>
+				<authority/>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nd/4.0/">This license
+						allows reusers to copy and distribute the material in any medium or format
+						in unadapted form only, and only so long as attribution is given to the
+						creator. The license allows for commercial use.</licence>
+				</availability>
 			</publicationStmt>
-            <notesStmt><note>Historical context for the Okinawan people during the US Military occupation at the end of WWII.</note></notesStmt>
+			<notesStmt>
+				<note>Historical context for the Okinawan people during the US Military occupation
+					at the end of WWII.</note>
+			</notesStmt>
 			<sourceDesc>
-                <bibl>Feifer, George. “The Rape of Okinawa.” <hi rend="italic">World Policy Journal,</hi> vol. 17, no. 3, 2000, pp. 33–40.</bibl>
-                <bibl>Ford, Clellan S. “Occupation Experiences on Okinawa.” <hi rend="italic">The Annals of the American Academy of Political and Social Science,</hi>The Annals of the American Academy of Political and Social Science, vol. 267, 1950, pp. 175–82.</bibl>
-                <bibl>Karasik, Daniel D. “Okinawa: A Problem in Administration and Reconstruction.” <hi rend="italic">The Far Eastern Quarterly,</hi>vol. 7, no. 3, 1948, pp. 254–67.</bibl>
-                <bibl>Loo, Tze M. “‘Paradise in a War Zone’: The U.S. Military and Tourism in Okinawa, 1945–1972.” <hi rend="italic">Japan Review,</hi> no. 33, 2019, pp. 173–94.</bibl>     
-            <msDesc>
-                <msIdentifier>
-                    <repository>UNL Archives &amp; Special Collections</repository>
-                    <collection>Gerald E. Thomas</collection>
-                    <idno>MS 0116</idno>
-                </msIdentifier>
-            </msDesc>           
+				<bibl>Feifer, George. “The Rape of Okinawa.” <hi rend="italic">World Policy
+						Journal,</hi> vol. 17, no. 3, 2000, pp. 33–40.</bibl>
+				<bibl>Ford, Clellan S. “Occupation Experiences on Okinawa.” <hi rend="italic">The
+						Annals of the American Academy of Political and Social Science,</hi>The
+					Annals of the American Academy of Political and Social Science, vol. 267, 1950,
+					pp. 175–82.</bibl>
+				<bibl>Karasik, Daniel D. “Okinawa: A Problem in Administration and Reconstruction.”
+						<hi rend="italic">The Far Eastern Quarterly,</hi>vol. 7, no. 3, 1948, pp.
+					254–67.</bibl>
+				<bibl>Loo, Tze M. “‘Paradise in a War Zone’: The U.S. Military and Tourism in
+					Okinawa, 1945–1972.” <hi rend="italic">Japan Review,</hi> no. 33, 2019, pp.
+					173–94.</bibl>
+				<msDesc>
+					<msIdentifier>
+						<repository>UNL Archives &amp; Special Collections</repository>
+						<collection>Gerald E. Thomas</collection>
+						<idno>MS 0116</idno>
+					</msIdentifier>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
-<!-- IZCHEL: not sure if this is the right tag for leaving these notes but I think the header is pretty much done for this doc. We'd just have to add the MsDesc or whatever it is that Laura mentioned in clase that's supposed to have the info about the repository where the photos are coming from (the stuff at the top of the inventory) -->
+		<!-- IZCHEL: not sure if this is the right tag for leaving these notes but I think the header is pretty much done for this doc. We'd just have to add the MsDesc or whatever it is that Laura mentioned in clase that's supposed to have the info about the repository where the photos are coming from (the stuff at the top of the inventory) -->
 	</teiHeader>
 	<text>
 		<body>
@@ -59,14 +75,15 @@
 			<p>An interesting fact to add here is that while most Okinawans consider themselves
 				Japanese, they consider themselves Okinawan first. But during the war it was clear
 				Japan likely did not feel the same way. While Japan made claims to protect the
-				Okinawan people, they used Okinawa caves to take shelter in while leaving the natives
-				above as a barrier between Japanese forces and American explosives. 
-				The article <hi rend="italic">"The Rape of Okinawa"</hi> from Duke University Press mentions that many if not most
-				American soldiers were unaware of the civilan death toll as it was rarely mentioned
-				to them. One commander of the Sixth Marine Division left after the three month long
-				campaign on the tiny island with the belief only 20,000 civilians had died in the
-				fighting. Due to destruction of documents from battles and the cruel treatment by
-				Japanese forces, it was not immediately known that approximately 150,000 native Okinawans lost their lives. </p>
+				Okinawan people, they used Okinawa caves to take shelter in while leaving the
+				natives above as a barrier between Japanese forces and American explosives. The
+				article <hi rend="italic">"The Rape of Okinawa"</hi> from Duke University Press
+				mentions that many if not most American soldiers were unaware of the civilan death
+				toll as it was rarely mentioned to them. One commander of the Sixth Marine Division
+				left after the three month long campaign on the tiny island with the belief only
+				20,000 civilians had died in the fighting. Due to destruction of documents from
+				battles and the cruel treatment by Japanese forces, it was not immediately known
+				that approximately 150,000 native Okinawans lost their lives. </p>
 			<p>During the bombing of the southern part of Okinawa, Japanese forces ordered Okinawan
 				natives to the northern part of the island which was lined with “dummie
 				fortification” giving the false sense of resistance for U.S. Marine forces and the
@@ -75,8 +92,8 @@
 				this invasion, U.S. military was instructed to avoid damaging specific native towns,
 				unfortunately they leveled many of them instead. The fighting forces continued to
 				push for usage of the island to be military based, leaving the natives with very
-				little room to live. This became such a problem that a Navy captain was quoted saying
-				“What do they expect us to do hang them from sky-hooks?” (Ford, Pg 178)</p>
+				little room to live. This became such a problem that a Navy captain was quoted
+				saying “What do they expect us to do hang them from sky-hooks?” (Ford, Pg 178)</p>
 			<p>When the ashes finally settled from the battle, Okinawans were no longer at the mercy
 				of Japan but now of the American forces. Six weeks prior to Tokyo surrendering,
 				American forces took control of Okinawa with an occupation that would last until
@@ -86,31 +103,31 @@
 				States. During the war Japan used racial unity to try to convert Okinawans into
 				fighters and when this failed, used them as fodder. Once the war was over they
 				abandoned Okinawans with the mindset of a conqueror giving up their “inferior and
-				dispensable” people to save their higher valued mainland. While Japan gradually returned to
-				its daily life and benefited from job and baby booms, Okinawa was left to fend
-				for itself with its new foreign conquerors.</p>
+				dispensable” people to save their higher valued mainland. While Japan gradually
+				returned to its daily life and benefited from job and baby booms, Okinawa was left
+				to fend for itself with its new foreign conquerors.</p>
 			<p>Among the conquerors were social scientists who came with the purpose of
 				understanding how to interact and handle conquered people. They were in charge of
 				calculating how to relocate and handle the natives. It became very clear to the
 				social scientist that Okinawans were self-reliant, resilient, sophisticated, and
-				ready to return to normal life when given the opportunity. After several months of U.S.
-				occupation it was decided to relocate Okinawans throughout the island and reunite
-				them with their respective families and communities. When military officials asked Okinawan leaders’
-				opinion on how to best approach this they were surprised to learn the Okinawans had
-				already compiled a census of where people were and where they were from, along with
-				a plan to transport people from town to town without wasting any room in the
-				trucks.</p>
-			<p>In articles like <hi rend="italic">"Occupation Experiences on Okinawa"</hi> it seems while social scientist
-				inhabited Okinawa, the Okinawans experienced some relief but with the departure of
-				the scientist in October 1945, natives found themselves left with a military force
-				less interested in their behavior and ways as a society and more with their own
-				military interest in mind. As acknowledged before the military leveled many towns
-				and took land for their bases. Often times they took prime land that would be
-				essential in tourism and economic value for Okinawans. Many Okinawans oppose the
-				presence of the bases concerned that the military makes their island a prime target
-				for attacks by other militaries, that the bases impeded their economic growth, and
-				due to the Status of Forces Agreement make it difficult to prosecute perpetrators in
-				the military and their dependents for crimes they commit.</p>
+				ready to return to normal life when given the opportunity. After several months of
+				U.S. occupation it was decided to relocate Okinawans throughout the island and
+				reunite them with their respective families and communities. When military officials
+				asked Okinawan leaders’ opinion on how to best approach this they were surprised to
+				learn the Okinawans had already compiled a census of where people were and where
+				they were from, along with a plan to transport people from town to town without
+				wasting any room in the trucks.</p>
+			<p>In articles like <hi rend="italic">"Occupation Experiences on Okinawa"</hi> it seems
+				while social scientist inhabited Okinawa, the Okinawans experienced some relief but
+				with the departure of the scientist in October 1945, natives found themselves left
+				with a military force less interested in their behavior and ways as a society and
+				more with their own military interest in mind. As acknowledged before the military
+				leveled many towns and took land for their bases. Often times they took prime land
+				that would be essential in tourism and economic value for Okinawans. Many Okinawans
+				oppose the presence of the bases concerned that the military makes their island a
+				prime target for attacks by other militaries, that the bases impeded their economic
+				growth, and due to the Status of Forces Agreement make it difficult to prosecute
+				perpetrators in the military and their dependents for crimes they commit.</p>
 		</body>
 	</text>
 </TEI>
