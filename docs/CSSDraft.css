@@ -8,9 +8,55 @@ font-size: 18px;
 margin-right:125px;
 margin-left:125px;
 color: black; 
- 
 
 }
+
+p.title {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:center;
+}
+
+p.docImprint {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:center;
+}
+
+p.docDate {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:center;
+}
+
+p.stage {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:center;
+}
+
+p.stageJustify {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:justify;
+}
+
+p.closer {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:right;
+}
+
+p.byline {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align: center;
+}
+
+p.editorial {
+    font-family: courier-new, garamond, times-new-roman;
+color:black;  
+line-height: 1.5;
+}
+
+p.center {
+    font-family: courier-new, garamond, times-new-roman;
+    text-align:center;
+}
+
 
 
 h1 {
