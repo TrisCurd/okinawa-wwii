@@ -59,6 +59,11 @@ img.html {
 }
 
 body /* if you want the background for the whole page, you should use the "body" selector */ {
-background-color: rgb(225, 190, 106);
+font-family: courier-new, garamond, times-new-roman;
+  background-color: tan;
+  margin-right:125px;
+  margin-left:125px;
+  padding:75px;
+
     
 }
