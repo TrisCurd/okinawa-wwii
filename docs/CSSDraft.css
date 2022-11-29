@@ -172,16 +172,6 @@ nav a: hover: :before {
     width: 100%;
 }
 
-div.topnav a {
-  float: left;
-  color: #403e3e;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  display:block;
-}
-
 #button {
   position: fixed;
   bottom: 15px;
