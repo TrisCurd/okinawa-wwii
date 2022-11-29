@@ -114,7 +114,7 @@ div.container {
   display:block;
 }
 header {
-    background: CadetBlue;
+    background-color: CadetBlue;
 }
 
 header: after {
