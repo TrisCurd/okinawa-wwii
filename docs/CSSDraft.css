@@ -61,8 +61,8 @@ img.html {
 body /* if you want the background for the whole page, you should use the "body" selector */ {
 font-family: courier-new, garamond, times-new-roman;
   background-color: tan;
-  margin-right:125px;
-  margin-left:125px;
+  margin-right:80px;
+  margin-left:80px;
   padding:75px;
     
 }
