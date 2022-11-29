@@ -106,13 +106,15 @@ font-family: courier-new, garamond, times-new-roman;
 }
 
 div.container {
-  background-color:CadetBlue;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%;
   height: 90px;
   margin: 0 auto;
   display:block;
+}
+header {
+    background: CadetBlue;
 }
 
 header: after {
