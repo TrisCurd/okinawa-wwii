@@ -106,7 +106,7 @@ font-family: courier-new, garamond, times-new-roman;
 }
 
 div.container {
-  background-color:light tan;
+  background-color:lighttan;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
