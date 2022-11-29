@@ -109,7 +109,8 @@ div.container {
   background-color:ivory;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  width: 80%; /* Full width */
+  width: 100%; /* Full width */
+  height: 90px;
   margin: 0 auto;
   display:block;
 }
