@@ -107,6 +107,19 @@ img.html {
 body /* if you want the background for the whole page, you should use the "body" selector */ {
 font-family: courier-new, garamond, times-new-roman;
   background-color: beige; 
-  
-    
+     
 }
+
+div.navbar-fixed-top {
+  overflow: hidden;
+  background-color: #fff;
+  position: fixed;
+  display: block;
+  top: 0;
+  width: 100%;
+  font-family: courier-new, garamond, times-new-roman;
+  height: 11rem;
+  margin-left: 0.125rem;
+  margin-right: 0.125rem;
+
+} 
