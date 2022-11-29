@@ -1,7 +1,8 @@
 
 
 p {
-text-align: left;
+text-align: justify;
+text-justify: inter-word;
 font-family: courier-new, garamond, times-new-roman;
 font-size: 18px;
 color: black;
