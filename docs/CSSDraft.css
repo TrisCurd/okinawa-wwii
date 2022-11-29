@@ -1,7 +1,7 @@
 p {
 text-align: left;
-font-family: times-new-roman;
-font-size: 13px;
+font-family: arial;
+font-size: 20px;
 color: black;
 text-indent: 50px; 
 
@@ -9,7 +9,7 @@ text-indent: 50px;
 
 
 h1 {
-font-family: times-new-roman, cursive;
+font-family: arial, cursive;
 text-decoration: underline;
     
 }
