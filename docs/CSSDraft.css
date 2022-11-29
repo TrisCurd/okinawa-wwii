@@ -1,9 +1,10 @@
 p {
 text-align: left;
 font-family: arial;
-font-size: 20px;
+font-size: 18px;
 color: black;
 text-indent: 50px; 
+display: block;
 
 }
 
