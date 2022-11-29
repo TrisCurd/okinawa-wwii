@@ -107,6 +107,24 @@ img.html {
 body /* if you want the background for the whole page, you should use the "body" selector */ {
 font-family: courier-new, garamond, times-new-roman;
   background-color: beige; 
-  
-    
+     
+}
+
+div.topnav {
+  background-color:black;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 125%; /* Full width */
+  display:block;
+}
+
+div.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display:block;
 }
