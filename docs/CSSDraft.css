@@ -7,9 +7,18 @@ font-family: arial;
 font-size: 18px;
 color: black;
 text-indent: 50px; 
-padding-bottom: 20px
+padding-bottom: 20px;
 
+p {
+text-align: left;
+font-family: arial;
+font-size: 18px;
+color: black;
+text-indent: 50px; 
+display: block;
+text-indent: 50px; 
 
+}
 
 
 h1 {
