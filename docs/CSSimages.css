@@ -1,7 +1,7 @@
 
 
 p {
-text-align: left;
+text-align: justify;
 text-justify: inter-word;
 font-family: courier-new, garamond, times-new-roman;
 font-size: 18px;
@@ -15,6 +15,7 @@ color: black;
 
 h1 {
 font-family: courier-new, garamond, times-new-roman, cursive;
+margin-top:125px;
 text-align: center;
 font-size: 24px;
     
