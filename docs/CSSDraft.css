@@ -5,6 +5,8 @@ text-align: justify;
 text-justify: inter-word;
 font-family: courier-new, garamond, times-new-roman;
 font-size: 18px;
+margin-right:125px;
+margin-left:125px;
 color: black; 
  
 
@@ -45,6 +47,15 @@ div.notes /* name of your class here */ {
   margin-left: 80px;   
 }
 
+img.html {
+    padding-bottom:25px;
+    padding-top:25px;
+    padding-right:25px;
+    padding-left: 50px;
+    width:500px;
+    float:left;
+    clear:both;
+}
 
 body /* if you want the background for the whole page, you should use the "body" selector */ {
 background-color: rgb(225, 190, 106);
