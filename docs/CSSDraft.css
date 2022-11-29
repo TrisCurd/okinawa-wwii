@@ -110,16 +110,21 @@ font-family: courier-new, garamond, times-new-roman;
      
 }
 
-div.navbar-fixed-top {
+div.topnav {
+  background-color:black;
   overflow: hidden;
-  background-color: #fff;
-  position: fixed;
-  display: block;
-  top: 0;
-  width: 100%;
-  font-family: courier-new, garamond, times-new-roman;
-  height: 11rem;
-  margin-left: 0.125rem;
-  margin-right: 0.125rem;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 125%; /* Full width */
+  display:block;
+}
 
-} 
+div.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display:block;
+}
