@@ -115,7 +115,7 @@ div.container {
   display:block;
 }
 
-header: after {
+header:after {
     content: '';
     display: table;
     clear:both;
@@ -125,6 +125,7 @@ header: after {
     padding: 10px 0;
     height: 60px;
     width: 60px;
+    margin: 0;
    
 }
 
@@ -134,7 +135,7 @@ nav {
 nav ul {
    margin:0;
    padding: 0;
-   list style:none;
+   list-style:none;
 }
 
 nav li{
