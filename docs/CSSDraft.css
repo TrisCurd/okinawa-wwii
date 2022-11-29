@@ -81,11 +81,6 @@ font-size: 12px;
     
 }
 
-p.note /* name of your class here */ {
-color: rgb(255,36,0);  
-line-height: 1.5;
-}
-
 
 div.notes /* name of your class here */ {
   margin-top: 100px;
