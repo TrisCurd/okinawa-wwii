@@ -60,6 +60,12 @@ img.html {
     margin-left:auto;
     margin-right:auto;
 }
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
 
 body /* if you want the background for the whole page, you should use the "body" selector */ {
 font-family: courier-new, garamond, times-new-roman;
